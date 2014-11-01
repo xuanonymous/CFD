@@ -1,0 +1,3 @@
+  warning 610: - The file contains invalid ASCII character(s) 0 (NUL), replacing with space(s)
+D:\New folder\Dropbox\fortran\nozzle2.F90(2) : error 402 - Invalid module file format for SUBS
+D:\New folder\Dropbox\fortran\nozzle2.F90(2) : error 404 - Cannot find definition for MODULE SUBS

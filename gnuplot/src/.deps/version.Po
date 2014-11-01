@@ -1,0 +1,10 @@
+version.o version.o: version.c version.h syscfg.h ../config.h \
+  /usr/llvm-gcc-4.2/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/stdbool.h
+
+version.h:
+
+syscfg.h:
+
+../config.h:
+
+/usr/llvm-gcc-4.2/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/stdbool.h:
